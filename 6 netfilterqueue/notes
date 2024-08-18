@@ -1,0 +1,1 @@
+to stop iptables modifying routing rules use ==> iptables --flush 
